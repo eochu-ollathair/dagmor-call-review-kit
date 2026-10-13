@@ -45,4 +45,4 @@ This free practice sheet uses invented conversations. Read each short extract, d
 
 For a real review, keep the recording filename, the words that support each finding, the chosen script, and any human correction together. A number alone cannot tell the whole story.
 
-Made by **Dagmor**. Try its [free call-sampling calculator](https://dagmor.app/story-call-sampling-calculator.html).
+Made by **Rickie Doherty for Dagmor**. Try its [free call-sampling calculator](https://dagmor.app/story-call-sampling-calculator.html).
